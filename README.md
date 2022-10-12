@@ -9,7 +9,6 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
 
   `npm i `
 
-
 ## Executando 
 
   `npm run dev`
@@ -19,4 +18,10 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
   `npm install -D tailwindcss postcss autoprefixer`
 
   `npx tailwindcss init -p `
+
+## Instalar e rodar Storybook
+
+  `npx sb init --builder @storybook/builder-vite --use-npm`
+
+  `npm run storybook`
 
