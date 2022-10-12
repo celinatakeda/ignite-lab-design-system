@@ -25,3 +25,18 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
 
   `npm run storybook`
 
+## Instalando pacote do npm clsx
+
+  `npm install --save clsx`
+
+## Radix UI
+```
+Instalando o radix slot
+
+npm install @radix-ui/react-slot
+
+```
+
+## Sites
+https://www.radix-ui.com/
+
