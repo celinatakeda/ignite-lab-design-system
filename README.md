@@ -35,7 +35,13 @@ Instalando o radix slot
 
 npm install @radix-ui/react-slot
 
+npm install @radix-ui/react-checkbox
+
 ```
+
+## Instalando Phosphor
+
+  `npm i phosphor-react`
 
 ## Sites
 https://www.radix-ui.com/
