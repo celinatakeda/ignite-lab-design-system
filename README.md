@@ -43,6 +43,16 @@ npm install @radix-ui/react-checkbox
 
   `npm i phosphor-react`
 
+  ## Deployer
+
+    `npm i @storybook/storybook-deployer --save-dev`
+
+## Rodar o buil do storybook
+
+  `npm run build-storybook`
+
 ## Sites
 https://www.radix-ui.com/
+
+https://github.com/storybookjs/storybook-deployer
 
