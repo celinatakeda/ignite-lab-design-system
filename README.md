@@ -51,6 +51,21 @@ npm install @radix-ui/react-checkbox
 
   `npm run build-storybook`
 
+ ## Plugins do storybook para escrever testes dos nossos stories
+```
+  Instalando
+  npm i @storybook/addon-interactions @storybook/jest  @storybook/testing-library @storybook/test-runner -D 
+
+```
+
+## Rodar o teste
+```
+  npm run test-storybook
+
+  rodar no modo watch 
+  -- --watch
+```
+
 ## Sites
 https://www.radix-ui.com/
 
@@ -58,3 +73,4 @@ https://github.com/storybookjs/storybook-deployer
 
 https://transform.tools/
 
+https://storybook.js.org/docs/react/essentials/interactions
