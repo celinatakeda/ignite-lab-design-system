@@ -33,9 +33,9 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
 ```
 Instalando o radix slot
 
-npm install @radix-ui/react-slot
+  npm install @radix-ui/react-slot
 
-npm install @radix-ui/react-checkbox
+  npm install @radix-ui/react-checkbox
 
 ```
 
@@ -54,7 +54,8 @@ npm install @radix-ui/react-checkbox
  ## Plugins do storybook para escrever testes dos nossos stories
 ```
   Instalando
-  npm i @storybook/addon-interactions @storybook/jest  @storybook/testing-library @storybook/test-runner -D 
+  
+    npm i @storybook/addon-interactions @storybook/jest  @storybook/testing-library @storybook/test-runner -D 
 
 ```
 
