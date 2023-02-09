@@ -41,8 +41,9 @@ Instalando o radix slot
 ```
 
 ## Instalando Phosphor
-
-  `npm i phosphor-react`
+```
+  npm i phosphor-react
+```
 
   ## Deployer
 
