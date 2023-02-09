@@ -20,19 +20,19 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
   `npx tailwindcss init -p `
 
 ## Instalar e rodar Storybook
-
+```
   `npx sb init --builder @storybook/builder-vite --use-npm`
 
   `npm run storybook`
+```
 
 ## Instalando pacote do npm clsx
 
   `npm install --save clsx`
 
 ## Radix UI
-```
 Instalando o radix slot
-
+```
   npm install @radix-ui/react-slot
 
   npm install @radix-ui/react-checkbox
@@ -52,9 +52,8 @@ Instalando o radix slot
   `npm run build-storybook`
 
  ## Plugins do storybook para escrever testes dos nossos stories
-```
-  Instalando
-  
+  Instalando 
+```  
     npm i @storybook/addon-interactions @storybook/jest  @storybook/testing-library @storybook/test-runner -D 
 
 ```
