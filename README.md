@@ -13,17 +13,18 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
 
   `npm run dev`
 
-## Instalando 
+## Instalando tailwindcss
+```
+  npm install -D tailwindcss postcss autoprefixer
 
-  `npm install -D tailwindcss postcss autoprefixer`
-
-  `npx tailwindcss init -p `
+  npx tailwindcss init -p 
+```
 
 ## Instalar e rodar Storybook
 ```
-  `npx sb init --builder @storybook/builder-vite --use-npm`
+  npx sb init --builder @storybook/builder-vite --use-npm
 
-  `npm run storybook`
+  npm run storybook
 ```
 
 ## Instalando pacote do npm clsx
