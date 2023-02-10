@@ -46,8 +46,9 @@ Instalando o radix slot
 ```
 
   ## Deployer
-
-    `npm i @storybook/storybook-deployer --save-dev`
+```
+    npm i @storybook/storybook-deployer --save-dev
+```
 
 ## Rodar o buil do storybook
 
