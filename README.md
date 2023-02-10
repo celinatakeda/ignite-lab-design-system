@@ -1,6 +1,11 @@
 # Design System 
 Neste projeto construimos um Design System do Figma ao React usando Storybook, Radix e diversas ferramentas do ecossistema do React 
 
+## Visual do projeto
+<p>
+  <img src=".github/storybook.png">
+</p>
+
 ## Criando projeto lab-ds
 ```
   npm create vite@latest
@@ -71,10 +76,7 @@ Instalando o radix slot
   rodar no modo watch 
   -- --watch
 ```
-## Visual do projeto
-<p>
-  <img src=".github/storybook.png">
-</p>
+
 ## Sites
 https://www.radix-ui.com/
 
