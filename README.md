@@ -71,7 +71,7 @@ Instalando o radix slot
   rodar no modo watch 
   -- --watch
 ```
-
+## Visual do projeto
 <p>
   <img src=".github/storybook.png">
 </p>
