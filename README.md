@@ -62,7 +62,6 @@ Instalando o radix slot
   Instalando 
 ```  
     npm i @storybook/addon-interactions @storybook/jest  @storybook/testing-library @storybook/test-runner -D 
-
 ```
 
 ## Rodar o teste
@@ -73,6 +72,9 @@ Instalando o radix slot
   -- --watch
 ```
 
+<p>
+  <img src=".github/storybook.png">
+</p>
 ## Sites
 https://www.radix-ui.com/
 
