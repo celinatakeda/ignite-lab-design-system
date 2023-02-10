@@ -2,16 +2,19 @@
 Neste projeto construimos um Design System do Figma ao React usando Storybook, Radix e diversas ferramentas do ecossistema do React 
 
 ## Criando projeto lab-ds
-
-  `npm create vite@latest`
+```
+  npm create vite@latest
+```
 
 ## Iniciando o projeto
-
-  `npm i `
+```
+  npm i 
+```
 
 ## Executando 
-
-  `npm run dev`
+```
+  npm run dev
+```
 
 ## Instalando tailwindcss
 ```
@@ -28,9 +31,9 @@ Neste projeto construimos um Design System do Figma ao React usando Storybook, R
 ```
 
 ## Instalando pacote do npm clsx
-
-  `npm install --save clsx`
-
+```
+  npm install --save clsx
+```
 ## Radix UI
 Instalando o radix slot
 ```
@@ -51,8 +54,9 @@ Instalando o radix slot
 ```
 
 ## Rodar o buil do storybook
-
-  `npm run build-storybook`
+```
+  npm run build-storybook
+```
 
  ## Plugins do storybook para escrever testes dos nossos stories
   Instalando 
